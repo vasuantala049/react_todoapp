@@ -1,0 +1,63 @@
+[
+  
+    {
+      "name": "Stranger Things",
+      "id": "stranger-things",
+      "img_url": "stranger_things.jpeg",
+      "rating": "8.7",
+      "description": "A group of young friends witness supernatural forces and secret government exploits.",
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "watch_url": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "name": "The Witcher",
+      "id": "the-witcher",
+      "img_url": "witcher.jpeg",
+      "rating": "8.2",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "Daredevil",
+      "id": "daredevil",
+      "img_url": "daredevil.avif",
+      "rating": "8.6",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "Game of thrones",
+      "id": "Game of thrones",
+      "img_url": "got.jpeg",
+      "rating": "8.3",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "House Of Ninjas",
+      "id": "House Of The Ninjas",
+      "img_url": "hon.jpg",
+      "rating": "8.5",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    },
+    {
+      "name": "Locke & Key",
+      "id": "Locke & Key",
+      "img_url": "lnk.jpg",
+      "rating": "8.0",
+      "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "genre": ["Action", "Adventure", "Drama"],
+      "watch_url": "https://www.netflix.com/title/80189685"
+    }
+  ]

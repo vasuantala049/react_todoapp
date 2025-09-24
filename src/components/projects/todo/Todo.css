@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(62, 0, 139);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header{
+    color: white;
+    height: 25px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    
+    
+}
+.date{
+    display: flex;
+    justify-content: center;color: white;
+}
+.taskname{
+    height: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: in;
+    border-color: transparent;
+}
+.submit{
+    height: 35px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(161, 39, 255);
+    color: white;
+    border-color: transparent;
+}
+.ulist{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.list{
+    background-color: white;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 10px ;
+    padding: 5px;
+    padding-top: px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    
+    align-items: center;
+   
+    
+}
+.tick-btn{
+   
+     height: 100%;
+     background-color: white;
+     border: 0px solid white;
+     margin-left: 100px;
+
+}
+.tick{
+   
+    height: 100%;
+    width: 17px;
+    color: green;
+}
+.delete{
+    height: 100%;
+    width: 20px;
+    color: red;
+}
+.delete-btn{
+    
+    height: 100%;
+    margin-left: 10px;
+
+    background-color: white;
+    border: 0px solid white;
+   
+}
+.clear-btn{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    margin-top: 30px;
+    
+}
+.clr-btn{
+    background-color: red;
+    color: white;
+}
+.comp-ulist{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.comp-list{
+    background-color: white;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 10px ;
+    padding: 5px;
+    padding-top: px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    
+    align-items: center;
+   
+    
+}
+.completed{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
