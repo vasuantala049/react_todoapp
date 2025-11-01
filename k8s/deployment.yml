@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: react-deployment
+  namespace: react-todo
+  labels:
+    app: react-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: react-deployment
+  template:
+    metadata:
+      labels:
+        app: react-deployment
+    spec:
+      containers:
+      - name: react-cont
+        image: vasu049/react-todo-app:latest
+        ports:
+        - containerPort: 80
+
+
